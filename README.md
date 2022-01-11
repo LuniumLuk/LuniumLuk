@@ -6,7 +6,7 @@ I like Graphics, Web and Games Developing, currently working on 3D reconstructio
 
 [![LuniumLuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuniumLuk&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuniumLuk&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuniumLuk&layout=compact&theme=dark&exclude_repo=ChooChooTrain,Sisyphury,Bubble_GGJ2021,TowerDefenceR,TowerDefenceA)](https://github.com/anuraghazra/github-readme-stats)
 
 :octocat: [github](https://github.com/LuniumLuk) \| :electron: [gitee](https://gitee.com/lunium) \| :email: [email](3180101939@zju.edu.cn) \| :house: [homepage](https://luniumluk.github.io)
 
