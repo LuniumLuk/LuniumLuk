@@ -15,7 +15,7 @@ I like Graphics, Web and Games Developing, currently working on 3D reconstructio
 #### - Lu Renderer
 A Tiny Renderer that built on minimum requirements
 
-<img src="https://luniumluk.github.io/images/unlit_shading.png" width="300px" height="300px">
+<img src="https://luniumluk.github.io/images/unlit_shading.gif" width="300px" height="300px">
 
 <img src="https://luniumluk.github.io/images/vertex_normal_shading.png" width="300px" height="300px">
 
