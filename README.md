@@ -41,7 +41,11 @@ An implementation of SIGGRAPH Asia's 2020 paper: [X-Fields: Implicit Neural View
 
 #### 3. A Visualization Tool of Blockchain [github](https://github.com/LBruyne/view-blockchain)
 
+### :computer: Course Work:
 
+#### 1. A Tetris Game in C [github](https://github.com/Fantast416/2019Spring-C-Language_Terris)
+
+#### 2. An OpenGL Game with Default GL Pipeline [github](https://github.com/Fantast416/2020Spring_ComputerGraphics_Game)
 
 ### :video_game: GAME:
 
@@ -50,8 +54,6 @@ An implementation of SIGGRAPH Asia's 2020 paper: [X-Fields: Implicit Neural View
 #### 2. CiGA Game Jam 2021 [bilibili](https://www.bilibili.com/video/BV1dh411h7Na)
 
 #### 3. Game: Sisphury's Illusion [bilibili](https://www.bilibili.com/video/BV1uM4y1N75u)
-
-
 
 ### :iphone: MiniProgram:
 
@@ -62,4 +64,7 @@ An implementation of SIGGRAPH Asia's 2020 paper: [X-Fields: Implicit Neural View
 <img src="https://luniumluk.github.io/images/seal_ali.jpg" width="100px">
 
 #### 3. KK Kanban
+
+[github](https://github.com/Fantast416/WxApp_KK_KanBan)
+
 <img src="https://luniumluk.github.io/images/kk_wx.jpg" width="100px" height="100px">
